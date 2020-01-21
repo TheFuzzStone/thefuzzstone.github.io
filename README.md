@@ -50,7 +50,7 @@ oazLsfPfeRoLmwWbEb3VE+XcgTohSoQJNsp0NFpoaPA0SH9iOGc=
 ![](https://i.imgur.com/7i54Hnr.png)
 `1MRDrYQfE6Vy1rqrWL6aN3iVCKofvvNA3w`
 
-  ![](/home/user/Pictures/downloaded/high-voltage-sign_26a1.png) https://tippin.me/@thefuzzstone
+![](https://i.imgur.com/h2Tuewd.png) https://tippin.me/@thefuzzstone
 
 ![](https://i.imgur.com/6tP3cz3.png)
 `0x0c30f1De9B30C9872d920200BB03aA3b67b7E300`
