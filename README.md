@@ -16,7 +16,7 @@ Hash: SHA256
 * Twitter: https://twitter.com/thefuzzstone
 * Reddit: https://www.reddit.com/user/TheFuzzStone
 * Telegram: https://t.me/thefuzzstone  (TELEGRAM ID: 253373664)
-* Jabber: thefuzzstone@jabber.otr.im
+* Jabber: thefuzzstone@gnu.gr
 * Matrix: https://matrix.to/#/@TheFuzzStone:matrix.org
 * Mastodon: https://fosstodon.org/@TheFuzzStone
 * Medium: https://medium.com/@thefuzzstone/
