@@ -10,13 +10,13 @@ Co-founder of the biggest local Monero community: [**XMR.RU**](https://xmr.ru/)
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
-* Fingerprint: D87F 7157 05F2 4AEF BA40  301B 6D8D 5CB3 9ADC 3EA7
+* Fingerprint: D87F 7157 05F2 4AEF BA40 301B 6D8D 5CB3 9ADC 3EA7
 * Keybase: https://keybase.io/thefuzzst0ne
 * Bitcointalk: https://bitcointalk.org/index.php?action=profile;u=679341
 * Twitter: https://twitter.com/thefuzzstone
 * Reddit: https://www.reddit.com/user/TheFuzzStone
 * Telegram: https://t.me/thefuzzstone  (TELEGRAM ID: 253373664)
-* Jabber: thefuzzstone@gnu.gr
+* Jabber: thefuzzstone@404.city
 * Matrix: https://matrix.to/#/@TheFuzzStone:matrix.org
 * Mastodon: https://fosstodon.org/@TheFuzzStone
 * Medium: https://medium.com/@thefuzzstone/
@@ -25,19 +25,19 @@ Hash: SHA256
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEERDx3gnlqI2Zj2EzGL72d6KiMLLMFAl7fNioACgkQL72d6KiM
-LLNWVQ//Rj83W4fIpbgp7NU77TtR5q59WaM5NFrOfArN9rl+A6Zhpoc62TVsBYNV
-UXYmoD60AhvgYoTv0W90tzBHvo2o5FTjsRJ8097iXBdLt1rdL7tPDIoiBkCjGPus
-TvhpejUCFPObuX1u1HjtJE4qpoTp4EUdGNcKY+JzaygIvR8C6SB1QgzW02sqLzzk
-gZAxM9F0fSEkLbLpNmbyOPT6gWJqBLy4y2mMpkORb8XasnLjAflYXsEsuR59mP5r
-AQo/hbS66+mtl8jz33bqfJE0KAejTe8HwQjK6atO3ML3hcsLs0Y6eMcJHE6RhgLa
-oPDUPcnpayR0EYlpTHnH9tVpcmNXNR5MzgvEK3Xo3jrUbpuIYFui4m7nl9bETgS/
-BvTgrRkPrpG84XYpF1oSvFg5ozejB05EUIXyCd7+l7RMWDmBiUlNtnX6tJLnvQfc
-LMxKid/TXO7mihBD/F4r2qAnwMtzFIy1w/bQXqSq/OQZe0bRf7r09mXcJlKp6nBN
-Ecx+G+djLaOOyup6r2ekOfe+3VbpqcHsZWSFDpUAxiZZkkDZUYiH41k027/OKFhJ
-xQVZibO1MVEEVgHB2wxBeMq8hDmRX9o7V2mM5GPCubAAjob/irl4if87qX5inlIo
-NseFrQfKwIZ1qMX6O5iBfFbBQGNhB2CbOWGvFypsV3t2jH5aVS4=
-=B5Z+
+iQIzBAEBCAAdFiEERDx3gnlqI2Zj2EzGL72d6KiMLLMFAmCGZBsACgkQL72d6KiM
+LLMS0A//f+nr1Quf62KXOT0sBEuRMSsJfaA1EKuvTsn0EXmYdeaJez9iylPgBAvj
+YuH5It8vi/S7OHb18B9tpb6e+4HPSPVEkqBHrrMfHsMdeYvstcxNywdbRa/NcnMJ
+ZoWTvDklxbQwvlXmye8+xN9jXX9GwqaRdMat78Y0qiR+EzsTx07lW+0xeozGdgCU
+tBZR5BYo+lzfVL38jMe1gJpaN5n44WwH2actwUEvd0RVv9aSZndEwNqN0gheouEp
+bAnTgmIHFxOaRrSeHn6zYK3cRmTqmTzw9tO3QrDaH0zNlCF9fAL6/zo8h8deEvXW
+nibdf4H9Xy64lL3Fmnr6AF9HjD1XIPIfjp0+BrM7v6IyRTbW+s2b7bQEMB+yYj5R
+kO7etqtChHprFf7CDA8zKpMRN2eQUN5IaGtO90fXjEBGoi2XqZvVhloBfY4BlJ9i
+lbQTZBCUyCGTFhpNuiZwARgI7YRhdR9GdDNbzvvEzXtS8kEZ8XSEhUsF/u2pLySe
+xF+eaGxlIneEoWO2w5mApHwuYCtt3Ld2jXf+gLDtzCDlUfYse0ZfhBPwoRy+kKPe
+pfbdFK4F6zpcJdfOsZ02+7TodIH5YWaFCgtoTSLoAWVkXE86hGrJAa9cDSikUjsx
+kTJVpSF3bDqGnO4WLehE28i7EZaMqL5OY7QzDWtR9kFU8cdoPBs=
+=JF5z
 -----END PGP SIGNATURE-----
 
 ```
