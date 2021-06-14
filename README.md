@@ -44,7 +44,7 @@ xtInh8pE6n3ZlNzmwK8EfYzpgO5bnKreRUBSgkLcDm/HsJAtgxZym5p4UaAdshyj
 ---
 
 
-![](https://static.coinpaprika.com/storage/cdn/currency_images/112389.png)
+![](https://imgur.com/QfJ10ym)
 `84iJDGNwRvZUxSM6heZwuW9ah4uNG3i75iVWN2czKuiZLBerZa8tTurWPciHkUAG7yJ1r8FTGr6YPTFqPZLEvkcMTDLSydM`
 
 ![](https://i.imgur.com/7i54Hnr.png)
