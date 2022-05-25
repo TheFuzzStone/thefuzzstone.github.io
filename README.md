@@ -6,7 +6,6 @@ Co-founder of the biggest local Monero community: [**XMR.RU**](https://xmr.ru/)
 
 ---
 
-
 ```
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
@@ -20,23 +19,24 @@ Hash: SHA256
 * Medium: https://medium.com/@thefuzzstone/
 * GitHub: https://github.com/TheFuzzStone
 * GitLab: https://gitlab.com/thefuzzstone
+* Bits.Media: https://forum.bits.media/index.php?/profile/27101-thefuzzstone/
 * Bitcointalk: https://bitcointalk.org/index.php?action=profile;u=679341  [abandoned since 2020]
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEERDx3gnlqI2Zj2EzGL72d6KiMLLMFAmJ/+KIACgkQL72d6KiM
-LLPOIA//ZGi26ILfL3SO0tOFUB719LznDXmCmBeC5Q09Inx1upR+1/calBLNaZPj
-BiPj4DwYHtlRSgqBjHIvD2UtpUnd3JbzdqCp8AhqDgxZYLNtEquHLI0kCEEDu4CP
-s9dcJYxDP6tP8ml/Fra5Dq4y+qrZnCWQXgbREJhgN2iPIEKhRhKmbYMiPo2eNFOS
-UJugEYNvy9yHfBsyYm/V2kUf+PBKPQ/ANYxwPfBueWTTTsIGRXSPvkWqahV3mxqa
-wXsNFIE+Ezt+vDkyjHnYd9D5HK0kEcpl8rzifiPCKBHdJ2ib4GhUrEqACxIFsuCK
-CAhEgzIpO3Xw2ZHqNEpGoGibH9k7oFpcAYnOo3EdNLIMLdBMfOf6UyfmWAP6TXSD
-2pa986pv0fwOQQsD7fEp7nJ/E7V5gQBb01yuxRxhq15W6KTgvqdjuTry35iLFU8p
-ZVHPYhzKKesC9vrpJW6jXqiZyvg5i//il3q9rUHtkO8cbf5xIyGQSZbBHk8WEotk
-Fof9rFSNn6X2CVhwiqWHHYgljaxTNxnxOX2xQyvw4lXk50TwkPd1APG5VP5Yj0Bj
-JJkXWjMCRyuxEG0nQIh5qoibIR6mjf9ijOqRahGZDdzQu0oYTvhKxKge/wq7WIX7
-VdQaaHQjA51d6vUN2mvJ1Rbn02bP0c2YasSjE3e38rA14Cc8CVA=
-=ReF1
+iQIzBAEBCAAdFiEERDx3gnlqI2Zj2EzGL72d6KiMLLMFAmKOclsACgkQL72d6KiM
+LLMelw/+K8eS/2hNBFMDAy4GDSLn/lRtF5U3wZbQp4CqRvdjZksQthJiq2L//jU1
++ldRptl3WnbKvyqFlSS+5aqZTOcbPIKEsxqwKIE1tsiQlJLtZ2RCBtRTAUWbHBZi
+pnhuMmKycpoo9ml1K8GJ+h8s/HWeu2cdMSm22nTTUnEKcKSndCUMzYQUk2f1e7Ma
+CDSi5loegfibNS7pFkWsAJ+8hNruMJ0DNK4nHaLTzb7sXrqmr9Hkzr6ga304UydG
+TSpiPXzRCmqSsT/am2HgOxYiNv8+6CNvyPEO7JcnvtVG2RzBpjJ4djMF8uJzjXjR
+1Hy4viFaMHEfUXEGJJ3N0X967iO7ZdVXXpKLJavTVF4oYGNm/s5JXRSUHWZfIAsf
+d8ciHhuPwtuytCTFUH4JOEkNmRBqiLJtFUrNswLtcvkv7w1i2HKci3mcoaQ2f0Z2
+bMEIsmaJliXfiWXdIVubLlZxywlMPxafO/gJhp0g4c0eGrDl5ihAKt+EzeD4vT/k
+8D1SejXdU2ImgXyLbBD6R9JHmWc1xYrDCdtpjZntMnp69NfNFVfmKhOVXXa99h9V
+pRUVSQfx4xVK9q18JG/BT3njuL6LMnr2rEu9XSKD2n8r29zwkaFHnHcQ+gdhx0FP
+MhN7AlsvvxKQQS71L8ciWPFBIVFi8AlvsT9ojK0kjFd8wRSS4mk=
+=7kqg
 -----END PGP SIGNATURE-----
 ```
 
