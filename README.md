@@ -5,7 +5,6 @@ Privacy, FOSS and free market enthusiast.
 Co-founder of the biggest local Monero community: [**XMR.RU**](https://xmr.ru/)
 
 ---
-
 ```
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
@@ -39,7 +38,6 @@ MhN7AlsvvxKQQS71L8ciWPFBIVFi8AlvsT9ojK0kjFd8wRSS4mk=
 =7kqg
 -----END PGP SIGNATURE-----
 ```
-
 ---
 
 
