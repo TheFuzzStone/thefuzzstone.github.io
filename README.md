@@ -2,7 +2,7 @@
 
 Privacy, FOSS and free market enthusiast. 
 
-Co-founder of the biggest local Monero community: [**XMR.RU**](https://xmr.ru/)
+Co-founder of: [**XMR.RU**](https://xmr.ru/)
 
 ---
 ```
