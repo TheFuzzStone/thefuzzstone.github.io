@@ -11,6 +11,7 @@ Hash: SHA256
 
 * Keyoxide: https://keyoxide.org/D87F715705F24AEFBA40301B6D8D5CB39ADC3EA7
 * Telegram: https://t.me/thefuzzstone  (Telegram ID: 253373664)
+* SimpleX: https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FXKPTmIiHufrgV4i8Q1lrpjzbZfbkzQ-6%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAG8R575DvM_I3Fu7dRZ5seP-xOIHHQxv6Me6mg3S_RTU%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion
 * Matrix: https://matrix.to/#/@TheFuzzStone:matrix.org
 * XMPP: thefuzzstone@404.city
 * Twitter: https://twitter.com/thefuzzstone
@@ -23,19 +24,19 @@ Hash: SHA256
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEERDx3gnlqI2Zj2EzGL72d6KiMLLMFAmKOclsACgkQL72d6KiM
-LLMelw/+K8eS/2hNBFMDAy4GDSLn/lRtF5U3wZbQp4CqRvdjZksQthJiq2L//jU1
-+ldRptl3WnbKvyqFlSS+5aqZTOcbPIKEsxqwKIE1tsiQlJLtZ2RCBtRTAUWbHBZi
-pnhuMmKycpoo9ml1K8GJ+h8s/HWeu2cdMSm22nTTUnEKcKSndCUMzYQUk2f1e7Ma
-CDSi5loegfibNS7pFkWsAJ+8hNruMJ0DNK4nHaLTzb7sXrqmr9Hkzr6ga304UydG
-TSpiPXzRCmqSsT/am2HgOxYiNv8+6CNvyPEO7JcnvtVG2RzBpjJ4djMF8uJzjXjR
-1Hy4viFaMHEfUXEGJJ3N0X967iO7ZdVXXpKLJavTVF4oYGNm/s5JXRSUHWZfIAsf
-d8ciHhuPwtuytCTFUH4JOEkNmRBqiLJtFUrNswLtcvkv7w1i2HKci3mcoaQ2f0Z2
-bMEIsmaJliXfiWXdIVubLlZxywlMPxafO/gJhp0g4c0eGrDl5ihAKt+EzeD4vT/k
-8D1SejXdU2ImgXyLbBD6R9JHmWc1xYrDCdtpjZntMnp69NfNFVfmKhOVXXa99h9V
-pRUVSQfx4xVK9q18JG/BT3njuL6LMnr2rEu9XSKD2n8r29zwkaFHnHcQ+gdhx0FP
-MhN7AlsvvxKQQS71L8ciWPFBIVFi8AlvsT9ojK0kjFd8wRSS4mk=
-=7kqg
+iQIzBAEBCAAdFiEERDx3gnlqI2Zj2EzGL72d6KiMLLMFAmRRbOQACgkQL72d6KiM
+LLO1MQ//ZX8I0b2qRJ9ohQwXzuk1uywLnIZQEo/Co3ZVyz2iM/oAMuAXPZqiQ8Ig
+RHI1PRQd21nwffTW/OoloRnyPfhdghLWSyIfSQcAG9vnW8F2374HW5RjfE6G91JU
+8UASILIMA3nQgnpsfpusg+HXJeEIlzcq/1x+gyU4AV9LmaDPOiHWCsxzVZQ1Zfro
+L4vyiTSJShlwajQa6JWOuMxcOVtrSV0Ikjh62wzslIXJHpn67NgOYo/hyHsLWvOT
+L4wxXcLO1xfqY5ognpNujkW5YrqJhmPIPLueHDB7jnA5fhqf5jbSrhLz7Hh5D6KB
+qCCR3iLNloS0eKV9YMMu9pZY3jLxVD6kKfYnojlBjLR1i+z+jIMVz534XThWkEcX
+I660U0Uqgu/BIFVqYMjtv5OlTvbisvAD05vR2ISdaWGjjI+UK95XZmNKwr2tGOHL
+nlFsr3HEEejhpbc0gbbYG06gQGviClvN6hnnfzFVN6Ny3lyFaHUhQ3+2MvFZRXrY
+2QGjX8tlnSbWeD3Zhvk83/n1TOJjXyhWT46jSiRGZBdTmUyjMwiw6wQTZLKIOk40
+Z7emloljqXnROKbEQBd4h06ZrSVjDKDhnPcLCkQrdU1lVMM9XPvNOjRZqHj/LvLm
+ByMDKmq/TntRXmFZn05IF8uVJtk6eB5SvQnOoUb1ZNyIwgQIwwk=
+=+vfd
 -----END PGP SIGNATURE-----
 ```
 ---
