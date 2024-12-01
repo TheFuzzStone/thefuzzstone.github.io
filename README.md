@@ -12,7 +12,7 @@ Hash: SHA256
 * Keyoxide: https://keyoxide.org/D87F715705F24AEFBA40301B6D8D5CB39ADC3EA7
 * Telegram: https://t.me/thefuzzstone  (Telegram ID: 253373664)
 * SimpleX: https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2F1OwYGt-yqOfe2IyVHhxz3ohqo3aCCMjtB-8wn4X_aoY%3D%40smp11.simplex.im%2Fcx9RpjaoUTq618oC89iAENHyMwr7ExAT%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAm4uymG48OAVGthOm8GKQ1jiefHJw2tTFfg0t9AyMHmI%253D%26srv%3D6ioorbm6i3yxmuoezrhjk6f6qgkc4syabh7m3so74xunb5nzr4pwgfqd.onion
-* Twitter: https://twitter.com/thefuzzstone
+* X: https://x.com/thefuzzstone
 * Reddit: https://www.reddit.com/user/TheFuzzStone
 * Medium: https://medium.com/@thefuzzstone/
 * GitHub: https://github.com/TheFuzzStone
@@ -22,19 +22,19 @@ Hash: SHA256
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEERDx3gnlqI2Zj2EzGL72d6KiMLLMFAmaKX90ACgkQL72d6KiM
-LLNZrBAAiHijOMzlJERpHMD1281rd1AT+UP5iE7BiiefgwR0Ybq5EeWKRlmr3xlq
-FoCla3K1Xsf8PJrZYJhXfgUI17356t4/O31UJP07aU3WD4x9ZdmQaKavIylHcK3k
-oI2OmqYETU1YTYIQ8xq7bd6XTxLxSwnk4Ev4t80XeEbDwDBUFLf8uRr81PhrhKXs
-qCE5QLpgyq+5/vEdvOX0z1e8zNPj6g3jDsg8reLs3Pn7cC7a9JuTjzP/OyokMHzl
-ZmlwXmpNX5seW2G5b/vWyUC4x1sXXE1naQ2oUyV/lvzQta+Vcw900R049+xJi4jJ
-VggeJ8GET2hwZogu9aGhIdFLLDtNHTBGJ+7N0OmunhsX7HxsiYaNzHG9p03lYycH
-4tUL3akfNlTFM+LIfRotXS1ZBG23ZO8UNhmpzULEOxp+fFaCDfwTsrkBh35qewDF
-N9q/44SgUFg5r9aBkg72nkCSX8t4p/ix6tuIul1YcVUoKzqSJpRGrBHog/g8d43p
-a82hyM5lbwSJb02eEdWa9Qy03rFcNYViNqhnDCSJZq2F7Q6mrG6SCSoiclnujemF
-J2IlE34yWT1sAXFSuh81l/Gm2fG+grNzqur6sJwGWOB9QeXB2VjMdUFENQ1HPTGX
-eabiio1VE8OOTg5Fr/3byF60uJXxmsyLd2zRbRvG0veT6AuvQYk=
-=0w5e
+iQIzBAEBCAAdFiEERDx3gnlqI2Zj2EzGL72d6KiMLLMFAmdMfUgACgkQL72d6KiM
+LLM8eQ//UmQ5yJmrdo/xQeeGnGKNzMqt0qxNXrm62ZsqXHhUiIpe3DUd7d3IAOvB
+XN3BDt3nzMeijObCZRfaLKBNmMBbHFmGnhz+Gi7kLtaS2MVHI4WVOFYC+CXz/BPh
+eWydmt1ibt67swnygv/Dr5xmpijgz2c4m/ybM+4NHRWGyOEQKiD7fWKi4h4pwiGE
+xSfo3a+6xBTv8ZpzXYWSMj48CLnnqFSX+gKg2YY8g5WOx5GOmVun9Jk7G391TaoV
+ptEoPlj1OlYiskttJs3eWQtl5fGPJL0vbzRLOma9L5ZaKcGf8jnumFPOQWTEmEwT
+tQBn1Pr7GxGNU1zQmLvWowWMxsM7egAT6EIzd8uFQEleCciW0xKp7s59837ROBX2
+WgXB6afIVKAPNBeS/iZsg3bicHK02lQUTIf/NSDenpiQAsZj+7TJMCrcUGrVBpcA
+p4guDZ/+yE1P+/rV3mnOGJg1ODGnwWme7fGcmGdrNZkWxPKKyd6xKtlc2Q7g04+3
+nPDjQ6jz+/smD1oKFUzEAJ2djXR/Mj3g3YWWL11NDTJTaqAZLcdKQhAOvfmMs0az
+tqBIDTYSZ5fjs/Dl3hxytRrc46oZggby7MMmJ+Cm1I6SXt7n8pomaiC/5KNH6d73
+TYhRXDX/0iTzPwODg+ziwW/345/gwfPSs3Bn/XqVSzKj8Op2v8c=
+=QAo1
 -----END PGP SIGNATURE-----
 ```
 ---
