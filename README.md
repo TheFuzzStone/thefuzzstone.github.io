@@ -12,6 +12,7 @@ Hash: SHA256
 * Keyoxide: https://keyoxide.org/D87F715705F24AEFBA40301B6D8D5CB39ADC3EA7
 * Telegram: https://t.me/thefuzzstone  (Telegram ID: 253373664)
 * SimpleX: https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2F1OwYGt-yqOfe2IyVHhxz3ohqo3aCCMjtB-8wn4X_aoY%3D%40smp11.simplex.im%2Fcx9RpjaoUTq618oC89iAENHyMwr7ExAT%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAm4uymG48OAVGthOm8GKQ1jiefHJw2tTFfg0t9AyMHmI%253D%26srv%3D6ioorbm6i3yxmuoezrhjk6f6qgkc4syabh7m3so74xunb5nzr4pwgfqd.onion
+* Nostr: npub1testfxupzps79vj8nc3qwhtrvrj9cgygfuztsh387szqhx3hee0s345l24
 * X: https://x.com/thefuzzstone
 * Reddit: https://www.reddit.com/user/TheFuzzStone
 * Medium: https://medium.com/@thefuzzstone/
@@ -22,19 +23,19 @@ Hash: SHA256
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEERDx3gnlqI2Zj2EzGL72d6KiMLLMFAmdMfUgACgkQL72d6KiM
-LLM8eQ//UmQ5yJmrdo/xQeeGnGKNzMqt0qxNXrm62ZsqXHhUiIpe3DUd7d3IAOvB
-XN3BDt3nzMeijObCZRfaLKBNmMBbHFmGnhz+Gi7kLtaS2MVHI4WVOFYC+CXz/BPh
-eWydmt1ibt67swnygv/Dr5xmpijgz2c4m/ybM+4NHRWGyOEQKiD7fWKi4h4pwiGE
-xSfo3a+6xBTv8ZpzXYWSMj48CLnnqFSX+gKg2YY8g5WOx5GOmVun9Jk7G391TaoV
-ptEoPlj1OlYiskttJs3eWQtl5fGPJL0vbzRLOma9L5ZaKcGf8jnumFPOQWTEmEwT
-tQBn1Pr7GxGNU1zQmLvWowWMxsM7egAT6EIzd8uFQEleCciW0xKp7s59837ROBX2
-WgXB6afIVKAPNBeS/iZsg3bicHK02lQUTIf/NSDenpiQAsZj+7TJMCrcUGrVBpcA
-p4guDZ/+yE1P+/rV3mnOGJg1ODGnwWme7fGcmGdrNZkWxPKKyd6xKtlc2Q7g04+3
-nPDjQ6jz+/smD1oKFUzEAJ2djXR/Mj3g3YWWL11NDTJTaqAZLcdKQhAOvfmMs0az
-tqBIDTYSZ5fjs/Dl3hxytRrc46oZggby7MMmJ+Cm1I6SXt7n8pomaiC/5KNH6d73
-TYhRXDX/0iTzPwODg+ziwW/345/gwfPSs3Bn/XqVSzKj8Op2v8c=
-=QAo1
+iQIzBAEBCAAdFiEERDx3gnlqI2Zj2EzGL72d6KiMLLMFAmf1rDkACgkQL72d6KiM
+LLO3Aw//cqClZ/JI9JA9XCuTHFb7/wzN/5kKfYVmJf1CgjPQD3hFNA2KVI9Iu8wD
+R7SzUlEJTVKMJX3kJj6FmbZAKL/x2Kvxu/f3m3JlagtPgd9BNUEfvuiCWGRmPpnn
+NfYAO45jRq76Oy28CvGXZaAPm74psK/SDvy5NAFqXs+gwnIXoYxCF0t5P+KFXtMz
+UFBIXgjTqfLbo2ym+dIC/4ofSIb6deuk9JsGDHUj1tjViQMm5tO4/ULcLZx+flHm
+OzaCXlh9evee335eTtVYQ9TO2DAThTqcaijb+rIKtT52spyTK7wvJ5S3ag8I6Ayi
+3aFEjp/aGfECkpFpSIPVQrXO84m6W5Lm9EyBaSoG68Y/3tkDXKb6GT+V58a9F30N
+MMYKbxzxTVpOli35GH/EcMk9xb0n/UmPsZTNviYeAWfbOI+C1gKPfyPAmZyqeyIi
+xzXAymn9fz0gH5t/SVum5uTrOIcQp2EuDJoeCv0hIOn7IYfJJcWz8ku5KAITfPUV
+jjotEbg9bizEvfyWifCz9QdBX2QEtR3T3UaGl7EYl9Dr669fRANk+tpizAQ7uH5U
+wmGvWhF8TM2weWmziP0qXIwFkJsHDyGAf0TLPjJOow76V4kRcNCTPXA/ZHf6fLhD
+GUADD+V1Ojglau4IOf0fHxSFcRCEhevjh3/1kWuBq5eqsJ4wCjo=
+=9c3o
 -----END PGP SIGNATURE-----
 ```
 ---
