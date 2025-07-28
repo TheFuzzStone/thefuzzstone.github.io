@@ -10,7 +10,7 @@ Co-founder of: [**XMR.RU**](https://xmr.ru/)
 Hash: SHA512
 
 * Keyoxide: https://keyoxide.org/D87F715705F24AEFBA40301B6D8D5CB39ADC3EA7
-* SimpleX: https://smp11.simplex.im/a#5NuN_U2Xw6e-V18Pk_4FMzDzZ6oo7Y0wybZSWGcD00Q
+* SimpleX: https://smp1.simplexonflux.com/a#U3mQad-A_zBxwjNvGpEVIyxI04sGlI3WTvvaasnsp9Y
 * Telegram: https://t.me/thefuzzstone  (Telegram ID: 253373664)
 * X: https://x.com/thefuzzstone
 * Nostr: npub1testfxupzps79vj8nc3qwhtrvrj9cgygfuztsh387szqhx3hee0s345l24
@@ -24,19 +24,19 @@ Hash: SHA512
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEERDx3gnlqI2Zj2EzGL72d6KiMLLMFAmiH7fYACgkQL72d6KiM
-LLOktA//XqxOZ+ahZA8jcSghBKirp0DtEfM0q1P4Q/ZPYARLh1Y0T77PT9ffUgAY
-EYop3jv3RtlJJHDhcL3Y/Q8a3n6VAC8fmSWn5MbGhGRjXG/5LPTJd8UWsOrg65Wd
-JDQ9N3A+uPc2k7Zd5D5/YUP+Oag+c8z3uXcZM3fbogNLFFdFa7c5JIjxdlWexaZv
-409XfJYRehdwZ7MumBxGUk+q4fCE/t7HmU/HmNLT9H7bR6+qb/XIq8UTLBPLL5fq
-OLPQzXUyizNeFoRwLMxJ6ZGf0q7UZj50W9SmIdO+DLviT3lJt4eYc++kvMOqJXq+
-xGtbMHk1gzWUy5VpPceunRN6v1XyMcTyfiv/3aBRRimC/j/qNZcHLrDI8l1Fa5z/
-vtEvPGxdPVAMeq0RsP7UWyyppTyqUI4Sxmhl4YFvnhFe6J8+RHbvMNHFNO0dLaGu
-PBmU7x0uIVLEH4GGNt71bHWy4JuvXeU73yjlqaSSsnthDPirAHb4nbgVTtUzYU/s
-RdfDK6PMlp4ZUbTWVFbaS3Rtwndl4RnI045hwml7sY3n6+WGZh/VUTdWAC9bSrZZ
-xdgtuRALipy3PRhhvJ+xZV0YVxZ5uxKyJl+AEBZLqHPFP3QYZYi24LBDldVlviFr
-j5B4qeTUTDfJ0Q+7A0RfPgnfuDhpWohi9LhZ8V+lypncf+EEhz8=
-=krci
+iQIzBAEBCgAdFiEERDx3gnlqI2Zj2EzGL72d6KiMLLMFAmiH7rMACgkQL72d6KiM
+LLONKA/9GgixJDLCjgDA0ERB7sBCJUKSVxtY9b5RgMWqGkWYI/2eo0N1fyVb64XP
+9Wc/m+gN9dF41JZLrMGgBYyiFbHuPyRQB6ode8GsfXwSuXZccKqq/LcAMgODGe7s
+6MokhYaiB5QhWfkwWUjmBcOJtKlM72rWfOjEeV0QGQVcugemKbC31c5i7oeWCCE6
+kbeU4mUufS0XzM1sZcYXl3xYPfEiwYPKxOZFQsDHLqRDOJpTcgdcr3RPZKaYDyR3
+++DBPOus65dJ8ZQj9xUfsYSvuipQmjj3HoSwoRUYCIpyru0np2SvpsIvrfI9zvnH
+NOOy7tI70O77L3WnhWcc096BhA9JQHPnPA878/Ux+bnmfs+wka8oGvxPdk60THPH
+zVEyYBqwZsnb6ujHHuIz5IFCJLoXSV69OX0unDK0GD/P1SqzfXDEGKI/piphTPuy
+GmW1cyB3yULC3vbKbO3zVff8YO9PAqwbJg0EO0xvO9d29UAC1ADNkc0DoCbhg6ZS
+0U7DPJqwwMIsPWSnruw9naDj7ETHeR0c9tnoCFCMyV5a0HS1fsKvs8DvbYnCntEQ
+rnnj9OorwT32jwxpLga59qOATbitOetpUujw3AtuDljuiHY3TjO70aSddkOKxlg7
+7UMixK1QEJOBkTGEwcJQXlGIN7LMoBa6Z70TyHewboqA2hlX1ww=
+=THC0
 -----END PGP SIGNATURE-----
 ```
 ---
