@@ -10,7 +10,7 @@ Co-founder of: [**XMR.RU**](https://xmr.ru/)
 Hash: SHA512
 
 * Keyoxide: https://keyoxide.org/D87F715705F24AEFBA40301B6D8D5CB39ADC3EA7
-* SimpleX: https://smp19.simplex.im/a#0kWo_SHxBddGzAXilD17mjfHcKLLYgyizTKKEYqpmdk
+* SimpleX: https://smp11.simplex.im/a#5NuN_U2Xw6e-V18Pk_4FMzDzZ6oo7Y0wybZSWGcD00Q
 * Telegram: https://t.me/thefuzzstone  (Telegram ID: 253373664)
 * X: https://x.com/thefuzzstone
 * Nostr: npub1testfxupzps79vj8nc3qwhtrvrj9cgygfuztsh387szqhx3hee0s345l24
@@ -21,21 +21,22 @@ Hash: SHA512
 * Bits.Media: https://forum.bits.media/index.php?/profile/27101-thefuzzstone/
 * Bitcointalk: https://bitcointalk.org/index.php?action=profile;u=679341  [abandoned since 2020]
 
+
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEERDx3gnlqI2Zj2EzGL72d6KiMLLMFAmhqpBIACgkQL72d6KiM
-LLM3cw//Zo304N0jfL8t8CwcBWa042BcsY4q6l0AIZsghQuDNSMPlaYc5uF9hifg
-Z5pA31fAVLC42NBst6SkLuh/+So2k16lDFYgq6IaBqkW7bM2kiH0tkxdDjuFrwz0
-Sp+FzyuvhHw58A9Ww/gDeCB3OtbvoYAU4vmGm9mXwkYR0SsX1bm5gLDP9E52csxY
-vFKXJ6ILbdnKenuR5bnMw2U5+Xj8nNophOtESjozmdcR6+8zJwXbYEzpgla6Qjby
-Gc39FF+bqzbYoLzlw6K/aUA3JeQrRukRv5vZ1r99rdTT1drDc9iP9AgyRYeNL8z0
-W1gGbdSLl0S9CCMDfebazl4+8xaG6c77OMXvH1iEzWNtD+1TsGWjwWgxrYvokKpH
-JSmktVw2WEeKXrhBP4hMWQM1XQXbPoRbz9p8QfSZ77oESVHCQsAYYS8PZWmsHXVQ
-DUeTn+iEZU2ch2wi0sT07638s7Gx8lD8vsE2angnBJpELiVMThDMAkOAj9tflait
-Zu/baX3OwQB9Il/pRZATNpRLzrmBNf6sLrDstZRsZYzjyDCNapXpNOLBLZ6tPweY
-/4/P7+UaTUUANNwTrP/rDPpaGACNOaPxBYN76Ghm+H3ul6AK/EKaOhPBa2lmDQOR
-BMJ30B7MWCY5MZl8wafPHojF0cfI3lXqa7W7PSTmV+PdEP7U798=
-=UnGm
+iQIzBAEBCgAdFiEERDx3gnlqI2Zj2EzGL72d6KiMLLMFAmiH7fYACgkQL72d6KiM
+LLOktA//XqxOZ+ahZA8jcSghBKirp0DtEfM0q1P4Q/ZPYARLh1Y0T77PT9ffUgAY
+EYop3jv3RtlJJHDhcL3Y/Q8a3n6VAC8fmSWn5MbGhGRjXG/5LPTJd8UWsOrg65Wd
+JDQ9N3A+uPc2k7Zd5D5/YUP+Oag+c8z3uXcZM3fbogNLFFdFa7c5JIjxdlWexaZv
+409XfJYRehdwZ7MumBxGUk+q4fCE/t7HmU/HmNLT9H7bR6+qb/XIq8UTLBPLL5fq
+OLPQzXUyizNeFoRwLMxJ6ZGf0q7UZj50W9SmIdO+DLviT3lJt4eYc++kvMOqJXq+
+xGtbMHk1gzWUy5VpPceunRN6v1XyMcTyfiv/3aBRRimC/j/qNZcHLrDI8l1Fa5z/
+vtEvPGxdPVAMeq0RsP7UWyyppTyqUI4Sxmhl4YFvnhFe6J8+RHbvMNHFNO0dLaGu
+PBmU7x0uIVLEH4GGNt71bHWy4JuvXeU73yjlqaSSsnthDPirAHb4nbgVTtUzYU/s
+RdfDK6PMlp4ZUbTWVFbaS3Rtwndl4RnI045hwml7sY3n6+WGZh/VUTdWAC9bSrZZ
+xdgtuRALipy3PRhhvJ+xZV0YVxZ5uxKyJl+AEBZLqHPFP3QYZYi24LBDldVlviFr
+j5B4qeTUTDfJ0Q+7A0RfPgnfuDhpWohi9LhZ8V+lypncf+EEhz8=
+=krci
 -----END PGP SIGNATURE-----
 ```
 ---
