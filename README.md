@@ -1,8 +1,6 @@
 ## About me
 
-Privacy, FOSS and free market enthusiast. 
-
-Co-founder of: [**XMR.RU**](https://xmr.ru/)
+Agorist ┃ FOSS enthusiast ┃ Co-founder: [**XMR.RU**](https://xmr.ru/)
 
 ---
 ```
